@@ -1,0 +1,3 @@
+﻿•Bilgisayara bulaşmak için dosyalara tutunan ve kendini çoğaltabilen programlardır.
+•Virüslerin aktif olabilmesi için bir şekilde kullanıcı tarafından çalıştırılmaları gerekir.
+•Özellikle uzantısı exe, scr, zip, rar olan dosyalarda virüs bulunma ihtimali fazladır.

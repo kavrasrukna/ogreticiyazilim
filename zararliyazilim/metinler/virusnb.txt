@@ -1,0 +1,9 @@
+﻿Nasıl Bulaşır?
+•E-posta ekleri ile
+•İnternetten indirilen/paylaşılan program ve dosyalar ile
+•Usb (taşınabilir) bellekler ile
+•Anlık mesajlaşma yolları ile 
+Nasıl Anlaşılır?
+•Programların çalışmasında bozukluklar olması
+•İsteğimiz dışında dosyaların silinmesi veya eklenmesi
+•Bilgisayarda belirli bir yavaşlık olması virüs belirtisi olabilir.

@@ -1,0 +1,10 @@
+﻿Bu uygulama 2017-2018 öğretim yılı bahar yarıyılında Kocaeli Üniversitesi Eğitim Fakültesi
+Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü Çoklu Ortam Tasarımı ve Üretimi dersinde
+final projesi olarak hazırlanmıştır.
+
+Proje Ekibi:
+Rükna Kavraş   rukna.kavras.67@gmail.com
+Hatice Özdemir Haticeozdemir574@gmail.com
+Gözde Kaya     Gozdekaya1d@gmail.com
+
+Danışman: Öğretim Üyesi Doktor Funda Dağ

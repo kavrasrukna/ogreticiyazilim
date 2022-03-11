@@ -1,0 +1,4 @@
+﻿•Kendi kendilerine kopyalanabilirler ve çalışmak için kullanıcıya ihtiyaç duymazlar. 
+•Bir tünel(backdoor) açarak saldırgan kişilerin veya diğer zararlı yazılımların bilgisayarımıza erişmesini sağlarlar. 
+•Virüsler gibi dosya silme işlemleri yapmazlar. 
+•İnternette çıkan “1.000.000 uncu kişisiniz”, “ödül kazandınız”, veya “Amerika’ya gitme şansı” gibi dikkat çeken ekranlara tıklanması ile bilgisayarımıza yüklenebilirler. 

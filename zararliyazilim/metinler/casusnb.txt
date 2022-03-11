@@ -1,0 +1,9 @@
+﻿Nasıl Bulaşır?
+•İnternetten indirilen programlar ile
+•İnternet tarayıcınızın güvenlik seviyesi yeterli olmaması yüzünden
+•İnternette çıkan açılır pencerelere tıklayarak
+Nasıl Anlaşılır?
+•İnternet tarayıcısının ayarlarının değişmesi
+•İnternet tarayıcısına yeni araçların eklenmesi
+•Sürekli açılır pencereler ve reklam içerikli ekranlar gelmesi
+•İnternette arama yaptığınızda garip sonuçlar gelmesi

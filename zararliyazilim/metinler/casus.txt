@@ -1,0 +1,3 @@
+﻿•Kullanıcıya ait bilgileri ele geçirmek amacı ile yazılan programlardır. 
+•Bitmek bilmeyen açılır pencerelere neden olabilirler. 
+•Web tarayıcımızda ev sayfasının değişmesine neden olabilirler. 

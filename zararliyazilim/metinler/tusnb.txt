@@ -1,0 +1,4 @@
+﻿Nasıl Bulaşır?
+•Kötü niyetli kişiler tarafından yazılan programlar ile
+•Truva atı adlı virüs aracılığı ile
+•Kullanıcı tarafından yüklenebilen keylogger yazılımı ile

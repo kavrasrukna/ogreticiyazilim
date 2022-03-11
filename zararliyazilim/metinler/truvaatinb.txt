@@ -1,0 +1,9 @@
+﻿Nasıl Bulaşır?
+•E-posta eklerini çalıştırarak
+•Güvensiz sitelerden indirilen dosyalar ile
+•Paylaşım ortamlarındaki dosyalar aracılığı ile
+Nasıl Anlaşılır?
+•Bilgisayarın ayarlarının kendiliğinden değişmesi
+•İlgili program kullanıldığında bilgisayarın kendini yeniden başlatması
+•Güvenlik duvarı veya anti-virüs programının kendiliğinden devre dışı olması
+•CD-ROM’un kendiliğinden açılıp kapanması

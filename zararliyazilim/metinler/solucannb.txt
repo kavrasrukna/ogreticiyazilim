@@ -1,0 +1,8 @@
+﻿Nasıl Bulaşır?
+•Genellikle e-posta ile gönderilen ekler ile
+•Çeşitli web siteleri ile
+•Ağ üzerinde paylaşılan dosyaları kullanarak
+Nasıl Anlaşılır?
+•Bilgisayarınız yavaşlayabilir veya birkaç dakikada bir kilitlenip yeniden başlayabilir.
+•Bilgisayarı başlatmak için gereken dosyalara saldırır. 
+•Bu durumda, güç düğmesine bastığınızda karşınızda boş bir ekran görebilirsiniz. 
